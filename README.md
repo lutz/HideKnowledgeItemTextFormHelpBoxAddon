@@ -4,7 +4,7 @@ This add-on hides the help box in the quote edit dialog. This is especially usef
 
 ## Releases
 
-The compiled library can be found under releases as an [archive](./../../releases).
+The compiled library can be found under [releases](./../../releases) as an archive.
 
 ## Disclaimer
 
