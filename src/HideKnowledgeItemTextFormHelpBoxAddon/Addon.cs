@@ -14,8 +14,6 @@ namespace HideKnowledgeItemTextFormHelpBox
                 knowledgeItemTextForm.HelpBox.Hide();
             }
             catch (Exception){}
-
-            base.OnHostingFormLoaded(knowledgeItemTextForm);
         }
 
         #endregion
